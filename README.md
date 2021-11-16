@@ -1,6 +1,6 @@
 # Music Conformer
 
-~["model"](./img/model_architecture.png)
+~[model](./img/model_architecture.png)
 
 Currently supports Pytorch >= 1.2.0 with Python >= 3.6  
 
